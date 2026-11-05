@@ -2,4 +2,5 @@
 <resources>
     <string name="app_name">Act6</string>
     <string name="laki">Laki-laki</string>
+    <string name="wanita">Perempuan</string>
 </resources>
